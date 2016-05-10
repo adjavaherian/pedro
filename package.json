@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-polyfill": "^6.8.0",
     "babel-register": "^6.8.0",
     "es6-promise": "^3.1.2",
     "expect": "^1.20.1",
